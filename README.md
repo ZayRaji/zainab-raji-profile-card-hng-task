@@ -3,7 +3,7 @@
 A responsive profile card built with HTML, CSS, and vanilla JavaScript.
 
 ## 🚀 Live Demo
-[View Live Site](your-netlify-url-here)
+https://zainabrajiprofilecard.netlify.app/
 
 ## 📋 Features
 - Responsive design (mobile, tablet, desktop)
