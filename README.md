@@ -30,9 +30,9 @@ git clone https://github.com/ZayRaji/zainab-raji-profile-card-hng-task.git
 cd zainab-raji-profile-card-hng-task
 ```
 
-3. Open `index.html` in your browser:
+3. Open `index.html` in your browser (it will automatically load the linked CSS and JavaScript files):
    - Double-click the file, OR
-   - Right-click → Open with → Your browser, OR
+   - Right-click, Open with Your browser, OR
    - Use a local server 
 
 ## Requirements Met
